@@ -16,4 +16,4 @@ live across every device without refreshing.
 - Firebase Realtime Database
 
 ## Why I built this
-Our school's house point system was being tracked manually across spreadsheets and notice boards, which meant results were always delayed and inconsistent between houses. I built this to give every house real-time visibility into standings the moment points were updated — no more waiting for someone to manually update a board.
+Our school's house point system was being tracked manually across spreadsheets and notice boards, which meant results were always delayed and inconsistent between houses. I built this to give every house real-time visibility into standings the moment points were updated — no more waiting for someone to manually update a board. This is not the best version my laptop would not support so according to that it is quite the best version 
